@@ -1,8 +1,4 @@
-# Block all crawlers for /accounts
 User-agent: *
-Disallow:
-
-# Allow all crawlers
-User-agent: *
+Disallow
 Allow: /
 Sitemap: https://togesd.pages.dev/sitemap.xml
