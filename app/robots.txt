@@ -1,4 +1,4 @@
 User-agent: *
-Disallow
+Disallow:
 Allow: /
 Sitemap: https://togesd.pages.dev/sitemap.xml
